@@ -1,0 +1,46 @@
+.va_title{
+color:#ffffff;
+
+margin:10px 0px 0px 8px;
+padding:5px 10px 5px 10px;
+position:absolute;
+top:0px;
+left:0px;
+z-index:1;
+background: rgb(0, 0, 0); /* fallback color */
+background: rgba(0, 0, 0, 0.7);
+}
+
+.va_title h2{
+color:#ffffff;
+
+margin:0px;
+padding:0px;
+}
+
+span.va_title+a{
+position:relative;
+top:0px;
+}
+
+
+.hentry a img.vaAlbumCover{
+height:280px;
+width:auto;
+margin:0px;
+border:none;
+padding:0px;
+
+position:relative;
+
+}
+
+.embedTargetDiv{
+height:285px;
+width:auto;
+position:relative;
+}
+
+li.vimeo_album-li .vimeoAlbumA{
+color:#666
+}
